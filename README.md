@@ -2,6 +2,7 @@
 
 [Mike Lee's Rule 0](https://twitter.com/bmf/status/379314407479980033): “If you lose your shit, you lose.”
 
+1. Be sincere, not sarcastic or disingenuous. The world has enough insincerity already.
 1. Everything is communication. Everything you do is perceived by others, and they will read meaning and intent into it. Choose your actions accordingly.
 2. It takes two to tango. If the other party misunderstands you, the chance is *at least* 50% that it was your fault. Don't chew them out; rephrase and clarify.
 4. [Assume good faith](http://en.wikipedia.org/wiki/Wikipedia:Assume_good_faith). Most people want to be right; if you can show them why they're not, they'll switch sides.
