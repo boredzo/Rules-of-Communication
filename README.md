@@ -8,3 +8,4 @@
 4. [Assume good faith](http://en.wikipedia.org/wiki/Wikipedia:Assume_good_faith). Most people want to be right; if you can show them why they're not, they'll switch sides.
 3. Be willing to have your mind changed. If the other party shows you why you're wrong, switch sides.
 5. People who are entrenched (cannot be convinced by facts and logic) are entrenched for other reasons. Often social; e.g., unwilling to hear arguments against their religion because they would be ostracized from their family if they changed their beliefs, so arguing against their religion is equivalent to arguing that they should leave their family. Don't waste time trying to convince them—you'll only piss them off, even more than yourself.
+7. Shut up and listen. Don't just try to think of/remember the next thing you want to say; listen and pay attention to the other party. Try to learn something.
